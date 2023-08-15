@@ -1,0 +1,7 @@
+Rate - 
+            Limit: 5000
+            Used: 4
+            Remaining: 4996
+learning_oauth
+mycode
+422 {"message":"Repository creation failed.","errors":[{"resource":"Repository","code":"custom","field":"name","message":"name already exists on this account"}],"documentation_url":"https://docs.github.com/rest/repos/repos#create-a-repository-for-the-authenticated-user"}
